@@ -16,3 +16,6 @@ Adding Deployment Section Text
 
 ## How to Contribute
 
+### copyright notice
+copyright git repository
+
