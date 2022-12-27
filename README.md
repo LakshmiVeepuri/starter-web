@@ -8,7 +8,11 @@ Adding introduction section text
 
 ## Purpose
 
+Adding Purpose section text
+
 ## Deployment
+
+Adding Deployment Section Text
 
 ## How to Contribute
 
